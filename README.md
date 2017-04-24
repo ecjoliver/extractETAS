@@ -4,7 +4,7 @@
 
     [x, y, z, t, data] = extractETAS(xs, ys, zs, date_start, date_end, variable)
   
-  Extract ETAS ocean model (Oliver et al. 2016) data over specified spatial and temporal domains. [Daily](http://data.imas.utas.edu.au/portal/search?uuid=47450e8b-da02-463d-aca4-f00b2077bd56) and [monthly](http://data.imas.utas.edu.au/portal/search?uuid=43dee465-0bc1-4f5a-b855-4cab14eaa9f1) ETAS data are available on the [IMAS data portal](http://data.imas.utas.edu.au/) and [THREDDS server]``(http://thredds.imas.utas.edu.au/thredds/catalog/IMAS/catalog.html).
+  Extract ETAS ocean model (Oliver et al. 2016) data over specified spatial and temporal domains. [Daily](http://data.imas.utas.edu.au/portal/search?uuid=47450e8b-da02-463d-aca4-f00b2077bd56) and [monthly](http://data.imas.utas.edu.au/portal/search?uuid=43dee465-0bc1-4f5a-b855-4cab14eaa9f1) ETAS data are available on the [IMAS data portal](http://data.imas.utas.edu.au/) and [THREDDS server](http://thredds.imas.utas.edu.au/thredds/catalog/IMAS/catalog.html).
 
 ###  Inputs:
 
